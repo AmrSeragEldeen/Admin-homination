@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  
+}
+.color-body {
+  height: 100vh;
+  background-color: #ffffff;
+}
+
+.title{
+  display: flex;
+  justify-content: center;
+  color: rgb(243, 0, 0);
+  font-weight: 400;
+  font-style: italic;
+  font-size: medium;
+  font-weight: bold ;
+
+}
+.title_ELEMENT{
+
+  color: #000000;
+  font-size: 1.2em;
+  font-weight: bold;
+  font-weight: 300;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin: 4px;
+}
+
+
+
+
+
+.font {
+  font-family: "Almarai", sans-serif;
+  font-size: 15px;
+  color: brown;
+}
+.color_item{
+  
+  
+  color: rgb(122, 168, 254);
+}
+
+
+.btn-color {
+  border: none;
+  border-radius: 8px;
+  color: white;
+  background-color:#00195e;
+  padding: 8px;
+  margin-bottom: 7PX;
+}
+.btn-color:hover {
+  color: rgb(255, 255, 255);
+  
+}
+
+.img-avatar {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+}
+
+.mt-0 {
+  margin-top: 0;
+}
+
+.font-decription {
+  color: #8c8c8c;
+  font-family: Almarai;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+  text-align: right;
+}
+
+.font-title {
+  font-family: Almarai;
+  font-size: 21px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-align: right;
+}
